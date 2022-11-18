@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(128, 128, 128, 0.568);
+    position: relative;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+}
+
+.div1 {
+    left: 0;
+    top: 0;
+}
+
+.div2 {
+    left: 0;
+    bottom: 0;
+}
+
+.div3 {
+    top: 0;
+    right: 0;
+}
+
+.div4 {
+    right: 0;
+    bottom: 0;
+}

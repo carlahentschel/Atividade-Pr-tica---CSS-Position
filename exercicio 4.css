@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(160, 151, 151);
+    position: relative;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+}
+
+.div1 {
+    top: 0;
+    left: 0;
+}
+
+.div2 {
+    top: 0;
+    left: 110px;
+}
+
+.div3 {
+    top: 0;
+    left: 220px;
+}
+
+.div4 {
+    top: 110px;
+    left: 0px;
+}
+
+.div5 {
+    top: 110px;
+    left: 110px;
+}
+
+.div6 {
+    top: 220px;
+    left: 0px;
+}
+
+.div7 {
+    bottom: 0px;
+    right: 0px;
+}
+
+.div8 {
+    bottom: 0px;
+    right: 110px;
+}
+
+.div9 {
+    bottom: 0px;
+    right: 220px;
+}
+
+.div10 {
+    bottom: 110px;
+    right: 0px;
+}
+
+.div11 {
+    bottom: 110px;
+    right: 110px;
+}
+
+.div12 {
+    bottom: 220px;
+    right: 0px;
+}

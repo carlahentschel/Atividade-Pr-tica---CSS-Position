@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(163, 157, 157);
+}
+
+div {
+    background-color: black;
+    color: white;
+    width: 90vw;
+    height: 200px;
+    padding: 10px;
+    margin: 50px auto;
+}
+
+p {
+    font-size: 2rem;
+}
+
+.div1 {
+    text-align: right;
+    overflow: hidden;
+    text-transform: uppercase;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.div2 {
+    overflow-y: scroll;
+    text-transform: lowercase;
+    border: 2px solid red;
+}
+
+
+
